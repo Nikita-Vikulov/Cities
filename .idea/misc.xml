@@ -5,14 +5,18 @@
       <map>
         <entry key="..\:/Users/Nikita/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.21388888888888888" />
         <entry key="..\:/Users/Nikita/Cities/app/lib/src/main/res/layout/super_bottom_sheet_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/Nikita/Cities/app/src/main/res/drawable/ic_baseline_folder_24.xml" value="0.2285" />
         <entry key="..\:/Users/Nikita/Cities/app/src/main/res/layout/activity_demo.xml" value="0.25" />
         <entry key="..\:/Users/Nikita/Cities/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Nikita/Cities/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.21388888888888888" />
         <entry key="..\:/Users/Nikita/Cities/app/src/main/res/layout/card_view.xml" value="0.264" />
+        <entry key="..\:/Users/Nikita/Cities/app/src/main/res/layout/card_view_design.xml" value="0.25" />
+        <entry key="..\:/Users/Nikita/Cities/app/src/main/res/layout/carousel_view.xml" value="0.24895833333333334" />
         <entry key="..\:/Users/Nikita/Cities/app/src/main/res/layout/fragment.xml" value="0.25" />
         <entry key="..\:/Users/Nikita/Cities/app/src/main/res/layout/fragment_demo_sheet.xml" value="0.25" />
         <entry key="..\:/Users/Nikita/Cities/app/src/main/res/layout/fragment_firsr.xml" value="0.25" />
         <entry key="..\:/Users/Nikita/Cities/app/src/main/res/layout/fragment_roulette.xml" value="0.152" />
-        <entry key="..\:/Users/Nikita/Cities/app/src/main/res/layout/fragment_table.xml" value="0.1" />
+        <entry key="..\:/Users/Nikita/Cities/app/src/main/res/layout/fragment_table.xml" value="0.264" />
         <entry key="..\:/Users/Nikita/Cities/app/src/main/res/layout/super_bottom_sheet_dialog.xml" value="0.25" />
       </map>
     </option>

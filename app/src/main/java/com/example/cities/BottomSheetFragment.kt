@@ -1,11 +1,11 @@
-package com.example.cities.Bottom
+package com.example.cities
 
 import android.graphics.Color
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.example.cities.R
+import com.example.cities.Bottom.SuperBottomSheetFragment
 
 class BottomSheetFragment : SuperBottomSheetFragment() {
 

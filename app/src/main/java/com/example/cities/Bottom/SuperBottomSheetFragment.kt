@@ -19,7 +19,6 @@ import com.google.android.material.bottomsheet.BottomSheetBehavior
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
 
 abstract class SuperBottomSheetFragment : BottomSheetDialogFragment() {
-
     internal lateinit var sheetTouchOutsideContainer: View
     internal lateinit var sheetContainer: CornerRadiusFrameLayout
     private lateinit var behavior: BottomSheetBehavior<*>
