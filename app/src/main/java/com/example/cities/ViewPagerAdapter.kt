@@ -21,9 +21,6 @@ class ViewPagerAdapter(fm: FragmentManager) : FragmentPagerAdapter(fm) {
     override fun getCount(): Int {
         return 2
     }
-  /* override fun onBindViewHolder(){
-
-   }*/
     override fun getPageTitle(position: Int): CharSequence {
         return when (position) {
             0 -> "First Tab"
